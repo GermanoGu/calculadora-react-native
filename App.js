@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
     textAlign: "right"
   },
   historyText: {
-    color: "white",
+    color: "gray",
     fontSize: 20,
     marginRight: 10,
     alignSelf: 'flex-end',
